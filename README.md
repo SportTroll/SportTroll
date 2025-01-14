@@ -1,4 +1,4 @@
-## Hola, que hacer por aqui? 👋
+## Hola, que haces por aqui? 👋
 
 <!--
 **SportTroll/SportTroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
